@@ -8,11 +8,11 @@
 		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pokemonreview</groupId>
+	<groupId>com.restaurantreview</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
-	<description>Pokemon API Course</description>
+	<description>Restaurant API Course</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
